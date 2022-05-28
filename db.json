@@ -1,0 +1,16 @@
+{
+    "CIUDAD":[
+        {
+            "id":"Barranquilla", "departamento":"Atl\u00e1ntico"
+        },
+        {
+            "id":"Cartagena", "departamento":"Bol\u00edvar"
+        },
+        {
+            "id":"Bogota", "departamento":"Cundinamarca"
+        },
+        {
+            "id":"Santa Marta", "departamento":"Magdalena"
+        }
+    ]
+}
